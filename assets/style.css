@@ -2,3 +2,7 @@
     padding-left:5px;
     padding-right:15px;
   }
+
+  .bg-image {
+    background-image: url(images/Bg.jpg);
+  }
