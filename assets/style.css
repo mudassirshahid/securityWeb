@@ -43,6 +43,10 @@
   .bg-primary-color-8 {
     background-color: var(--color-8);
   }
+  .btn-outline-orange {
+    border-color: var(--color-1);
+
+  }
 
   .color-1 {
     color: var(--color-1) !important;
