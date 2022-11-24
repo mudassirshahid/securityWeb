@@ -171,6 +171,8 @@
   border-color: unset;
 }
 
+/* RESPONSIVE */
+
 
 @media (max-width:1024px) {
   .navbar-nav > li {
